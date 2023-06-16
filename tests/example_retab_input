@@ -1,0 +1,9 @@
+package main
+
+func main() {
+  err := rootCmd.Execute()
+  checkErrorDie(err)
+}
+
+	// tabbed line
+		// doubly tabbed line
